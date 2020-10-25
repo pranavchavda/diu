@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hotels on Stay in Diu</title>
+    <link>http://stayindiu.com/hotels/</link>
+    <description>Recent content in Hotels on Stay in Diu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://stayindiu.com/hotels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Krishna Beach Resort</title>
+      <link>http://stayindiu.com/hotels/krishna-beach-resort/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://stayindiu.com/hotels/krishna-beach-resort/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
