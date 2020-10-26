@@ -1,9 +1,5 @@
-+++
-title = "Room Service"
-weight = 50
+\+++ title = "In Room Dining" weight = 50
 
-[asset]
-  icon = "fas fa-concierge-bell"
+[asset] icon = "fas fa-concierge-bell"
 
-  
-+++
+\+++

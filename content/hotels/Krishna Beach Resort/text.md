@@ -12,7 +12,7 @@ align = "left"
 
  [[buttons]]
   text = "Contact to Book"
-  url = "#"
+  url = "tel:+91-9869779922"
   color = "primary"
 +++
 
