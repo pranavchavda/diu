@@ -1,7 +1,9 @@
-+++ 
-title = "In Room Dining" weight = 50
++++
+title = "In Room Dining"
+weight = 40
 
-[asset] 
-icon = "fas fa-concierge-bell"
+[asset]
+  icon = "fas fa-concierge-bell"
 
+  
 +++
