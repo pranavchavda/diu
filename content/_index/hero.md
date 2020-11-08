@@ -12,7 +12,7 @@ subtitle = "The Best Hotels in Diu, at the Best Prices"
 color = "#f0f0f0"
 
 [header]
-  image = "diu.jpg"
+  image = "lion 1.jpg.jpg"
 
 [asset]
   image = "logo.png"
