@@ -1,6 +1,6 @@
 +++
 date = "2018-07-21"
-title = "Krishna Beach Resort 123"
+title = "Diu Resort"
 display = "true"
 [asset]
 image =  "hotellogo.png"
