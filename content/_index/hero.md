@@ -13,7 +13,7 @@ color = "#f0f0f0"
 
 
 [header]
-  image = "diu.jpg"
+  image = "lion 1.jpg"
 
 [asset]
   image = "logo.png"
