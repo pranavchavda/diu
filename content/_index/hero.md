@@ -11,8 +11,9 @@ title = "Stay in Diu"
 subtitle = "The Best Hotels in Diu, at the Best Prices"
 color = "#f0f0f0"
 
+
 [header]
-  image = "lion 1.jpg.jpg"
+  image = "diu.jpg"
 
 [asset]
   image = "logo.png"
