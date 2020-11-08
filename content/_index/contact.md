@@ -6,7 +6,7 @@ weight = 500
 background = "secondary"
 form_name = "defaultContact"
 
-title = "Get in Touch. Fill the For"
+title = "Get in Touch. Fill the Form"
 subtitle  = "*not working on demo page*"
 #title_align = "left" # Default is center, can be left, right or center
 
