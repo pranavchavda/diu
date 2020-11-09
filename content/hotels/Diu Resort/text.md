@@ -7,8 +7,9 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "hotellogo.png"
+  image = "Satisfaction-Guarantee-Extension.jpg"
   align = "top"
+
 
  [[buttons]]
   text = "Contact to Book"
