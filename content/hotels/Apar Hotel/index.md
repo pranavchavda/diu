@@ -1,6 +1,6 @@
 +++
 date = "2018-07-21"
-title = "Krishna Beach Resort 123"
+title = "Apar Hotel Test"
 display = "true"
 [asset]
 image =  "hotellogo.png"

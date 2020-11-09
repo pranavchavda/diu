@@ -8,7 +8,7 @@ weight = 50
 background = "transparent" # can influence the text color
 particles = false
 
-title = "Krishna Beach Resort"
+title = "Apar Hotel TEst"
 subtitle = "Call the Number Below to Book at the Best Possible Tarrif"
 color = "#f0f0f0"
 
