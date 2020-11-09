@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "hotellogo.png"
+  image = "apar.jpg"
   align = "top"
 
  [[buttons]]
