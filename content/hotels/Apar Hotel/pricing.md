@@ -44,7 +44,7 @@ subtitle= "Call us today for the best price"
 
 [[rows]]
 
-[rows.values]]
+[[rows.values]]
     header = "Delux Room"
 
   [[rows.values]]
@@ -58,4 +58,4 @@ subtitle= "Call us today for the best price"
 
   [[rows.values]]
     text = "Rs. 8001"
-+++ 
++++
