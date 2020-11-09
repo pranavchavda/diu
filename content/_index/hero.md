@@ -8,7 +8,7 @@ background = "transparent" # can influence the text color
 particles = false
 
 title = "Stay in Diu"
-subtitle = "The Best Hotels in Diu, at the Best Prices"
+subtitle = "Diu Hotels at the lowest price"
 color = "#f0f0f0"
 
 
