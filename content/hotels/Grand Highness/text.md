@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "Grand Highness.jepg"
+  image = "Grand Highness.jpeg"
   align = "top"
 
 
