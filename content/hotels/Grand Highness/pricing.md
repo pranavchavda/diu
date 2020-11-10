@@ -31,16 +31,16 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 5300"
 
   [[rows.values]]
-    text = "Rs. 6000"
+    text = "Rs. 6300"
 
   [[rows.values]]
-    text = "Rs. 7000"
+    text = "Rs. 7300"
 
   [[rows.values]]
-    text = "Rs. 8000"
+    text = "Rs. 8300"
 
 [[rows]]
 
