@@ -10,5 +10,5 @@ menu_title = ""
 +++
 
 #### An 11Destinations Enterprise
-StayinDiu.com is property of 11 Destinations, Hotel Marketing co operating from Mumbai. 
+StayinDiu.com is property of 11 Destinations, Hotel Marketing company operating from Mumbai. 
 Call us on 9869779922 or 7016528702: and Contact Ashok Chavda, Sales Division.
