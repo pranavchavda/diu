@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "Satisfaction-Guarantee-Extension.jpg"
+  image = "Grand Highness.jepg"
   align = "top"
 
 
