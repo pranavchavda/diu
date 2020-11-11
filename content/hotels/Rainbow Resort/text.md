@@ -22,6 +22,7 @@ align = "left"
 **Apart from the features listed, this hotel offers**
 - Restaurant
 - Dining Area
+- Kids Meal
 - Coffee Shop
 - Bar
 - Bakery
@@ -30,9 +31,13 @@ align = "left"
 - Doctor on Call
 - Travel Assistance
 - Safety and hygene
+- Disinfectant wipes
+- Contactless Room Service
+- Sanitizers and Masks.
 - 24/7 Front Desk
 - House Keeping
 - Telephone
 - Intercom
 - Emergency Exit
+- Electronic Key Card
 - 
