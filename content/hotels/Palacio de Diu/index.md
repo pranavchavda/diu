@@ -1,5 +1,5 @@
 +++
 date = "2018-07-21"
-title = "Radhika Beach Resort"
+title = "Palacio de Diu"
 display = "true"
 +++
