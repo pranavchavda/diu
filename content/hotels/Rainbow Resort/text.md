@@ -25,20 +25,20 @@ align = "left"
 &bull Dining Area
 &bull Kids Meal
 &bull Coffee Shop
-- Bar
-- Bakery
-- Butler Services
-- Paid Airport transfers
-- Doctor on Call
-- Travel Assistance
-- Safety and hygene
-- Disinfectant wipes
-- Contactless Room Service
-- Sanitizers and Masks.
-- 24/7 Front Desk
-- House Keeping
-- Telephone
-- Intercom
-- Emergency Exit
-- Electronic Key Card
+&bull Bar
+&bull Bakery
+&bull Butler Services
+&bull Paid Airport transfers
+&bull Doctor on Call
+&bull Travel Assistance
+&bull Safety and hygene
+&bull Disinfectant wipes
+&bull Contactless Room Service
+&bull Sanitizers and Masks.
+&bull 24/7 Front Desk
+&bull House Keeping
+&bull Telephone
+&bull Intercom
+&bull Emergency Exit
+&bull Electronic Key Card
 - 
