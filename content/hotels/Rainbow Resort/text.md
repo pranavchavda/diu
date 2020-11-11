@@ -21,7 +21,18 @@ align = "left"
 ***
 **Apart from the features listed, this hotel offers**
 - Restaurant
-- Dinining 
-- Tour Desk
+- Dining Area
+- Coffee Shop
+- Bar
+- Bakery
+- Butler Services
+- Paid Airport transfers
+- Doctor on Call
+- Travel Assistance
+- Safety and hygene
 - 24/7 Front Desk
-- Terrace
+- House Keeping
+- Telephone
+- Intercom
+- Emergency Exit
+- 
