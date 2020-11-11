@@ -32,7 +32,7 @@ A true reflection of the Portuguese influence and contemporary hospitality offer
 - Paid Airport transfers
 - Doctor on Call
 - Travel Assistance
-- Safety and hygene
+- Safety and hygiene
 - Disinfectant wipes
 - Contactless Room Service
 - Sanitizers and Masks.
