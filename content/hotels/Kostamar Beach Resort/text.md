@@ -17,7 +17,7 @@ align = "left"
 +++
 
 
- Apar Hotel Test
+ Kostamar Beach Resort
 ***
 **Apart from the features listed, this hotel offers**
 - Airport Transfers
