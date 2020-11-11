@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "apar.jpg"
+  image = "Rainbow Resort.jpg"
   align = "top"
 
  [[buttons]]
@@ -18,6 +18,7 @@ align = "left"
 
 
  Rainbow Resort
+ 
 ***
 **Apart from the features listed, this hotel offers**
 - Restaurant
