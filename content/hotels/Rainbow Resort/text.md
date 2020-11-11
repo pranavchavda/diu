@@ -20,7 +20,8 @@ align = "left"
  Rainbow Resort
 ***
 **Apart from the features listed, this hotel offers**
-- Airport Transfers
+- Restaurant
+- Dinining 
 - Tour Desk
 - 24/7 Front Desk
 - Terrace

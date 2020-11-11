@@ -1,5 +1,5 @@
 +++
-title = "In Room Dining"
+title = "24 Hour Room Service"
 weight = 40
 
 [asset]
