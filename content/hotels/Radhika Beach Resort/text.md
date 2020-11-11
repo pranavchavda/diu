@@ -18,7 +18,7 @@ align = "left"
 +++
 
 
- Located at the Picturesque Location of Nagoa Beach, Krishna Beach Resort is a perfect place to spend your beach vacation while in Diu. They have total 36 Rooms, Including 2 Suites, 6 Super Executive Rooms, 18 Executive Rooms and 10 Standard Rooms.  
+ Located at the Picturesque Location of Nagoa Beach, Radhika Beach Resort is a perfect place to spend your beach vacation while in Diu. They have total 36 Rooms, Including 2 Suites, 6 Super Executive Rooms, 18 Executive Rooms and 10 Standard Rooms.  
 ***
 **Apart from the features listed, this hotel offers**
 - Airport Transfers

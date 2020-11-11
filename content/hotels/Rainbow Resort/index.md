@@ -1,6 +1,6 @@
 +++
 date = "2018-07-21"
-title = "Kostamar Beach Resort"
+title = "Rainbow Resort"
 display = "true"
 [asset]
 image =  "hotellogo.png"
