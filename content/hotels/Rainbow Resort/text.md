@@ -17,8 +17,8 @@ align = "left"
 +++
 
 
- Rainbow Resort
- 
+  <u>Rainbow Resort</u>
+ A true reflection of the Portuguese influence and contemporary hospitality offers luxurious opulence of tastefully and well-appointed rooms and suites for your indulgence.
 ***
 **Apart from the features listed, this hotel offers**
 - Restaurant
