@@ -54,10 +54,19 @@ subtitle= "Call us today for the best price"
     text = "Rs. 4546"
 
   [[rows.values]]
-    text = "Rs. 6005"
+    text = "Rs. 5455"
+    
+    
+   [[rows]]
+
+ [[rows.values]]
+    header = "Dlx 4 Bed"
 
   [[rows.values]]
-    text = "Rs. 17001"
+    text = "Rs. 5455"
+
   [[rows.values]]
-    text = "Rs. 18001"
+    text = "Rs. 6364" 
+
+  
 +++
