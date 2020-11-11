@@ -68,5 +68,16 @@ subtitle= "Call us today for the best price"
   [[rows.values]]
     text = "Rs. 6364" 
 
+
+ [[rows]]
+
+ [[rows.values]]
+    header = "Suite Room"
+
+  [[rows.values]]
+    text = "Rs. 6400"
+
+  [[rows.values]]
+    text = "Rs. 6900" 
   
 +++
