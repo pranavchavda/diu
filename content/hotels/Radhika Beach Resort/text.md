@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "Satisfaction-Guarantee-Extension.jpg"
+  image = "radhika 3.jpg"
   align = "top"
 
 
@@ -16,7 +16,7 @@ align = "left"
   url = "tel:+91-9869779922"
   color = "primary"
 +++
-
+## Radhika Beach Resort
 
  Located at the Picturesque Location of Nagoa Beach, Radhika Beach Resort is a perfect place to spend your beach vacation while in Diu. They have total 36 Rooms, Including 2 Suites, 6 Super Executive Rooms, 18 Executive Rooms and 10 Standard Rooms.  
 ***
