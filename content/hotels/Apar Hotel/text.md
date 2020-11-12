@@ -17,7 +17,7 @@ align = "left"
 +++
 
 
- Hotel Apaar
+ # Hotel Apaar
 ***
 **Apart from the features listed, this hotel offers**
 - Paid Airport Transfers
