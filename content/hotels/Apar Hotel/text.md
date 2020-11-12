@@ -21,6 +21,10 @@ align = "left"
 ***
 **Apart from the features listed, this hotel offers**
 - Paid Airport Transfers
-- Tour Desk
+- Front Office Assistance
 - 24/7 Front Desk
-- Terrace
+- Restaurant
+- Parking
+- Lawn
+- Conference Room
+- Power Back-up
