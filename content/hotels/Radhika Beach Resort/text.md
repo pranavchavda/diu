@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "radhika 3.jpg"
+  image = "radhika 8.jpg"
   align = "top"
 
 
