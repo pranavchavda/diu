@@ -17,10 +17,10 @@ align = "left"
 +++
 
 
- Apar Hotel, Diu
+ Hotel Apaar
 ***
 **Apart from the features listed, this hotel offers**
-- Airport Transfers
+- Paid Airport Transfers
 - Tour Desk
 - 24/7 Front Desk
 - Terrace
