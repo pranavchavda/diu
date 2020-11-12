@@ -1,5 +1,5 @@
 +++
 date = "2018-07-21"
-title = "Grand Highness"
+title = "The Grand Highness"
 display = "true"
 +++
