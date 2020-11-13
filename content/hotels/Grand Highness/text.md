@@ -26,4 +26,12 @@ The Grand Highness is eager to give you personal warm reception,good hospitality
 - Restaurant
 - conference Hall
 - 24/7 Front Desk
-- Terrace
+- Air Conditioning
+- Complimentary Wi-Fi
+- 32” LED TV
+- Mini-Refrigerator
+- Tea/Coffee Maker
+- Wardrobe
+- Laundry Service
+- 24-hour Hot & Cold Water
+- Newspaper
