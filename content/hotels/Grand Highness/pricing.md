@@ -6,7 +6,7 @@ weight = 105
 background = "white"
 
 title = "Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "Call us for today's best price"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
@@ -31,37 +31,24 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 1800"
 
-  [[rows.values]]
-    text = "Rs. 6000"
 
-  [[rows.values]]
-    text = "Rs. 7000"
-
-  [[rows.values]]
-    text = "Rs. 8000"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Executive Room"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 2300"
 
-  [[rows.values]]
-    text = "Rs. 6001"
-
-  [[rows.values]]
-    text = "Rs. 7001"
-  [[rows.values]]
-    text = "Rs. 8001"
+ 
     
 [[rows]]
 
  [[rows.values]]
-    header = "Suite"
+    header = "Presidential Suite"
 
   [[rows.values]]
     text = "Rs. 5005"
