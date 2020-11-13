@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "TGH.jpeg"
+  image = "TGH.jpg"
   align = "top"
 
 
