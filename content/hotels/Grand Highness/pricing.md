@@ -33,7 +33,7 @@ subtitle= "Call us today for the best price"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 1800 onwards"
 
 
     
