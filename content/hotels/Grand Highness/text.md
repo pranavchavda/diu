@@ -18,7 +18,7 @@ align = "left"
 +++
 
 
- Located at the Picturesque Location of Nagoa Beach, Grand highness is a perfect place to spend your beach vacation while in Diu. They have total 36 Rooms, Including 2 Suites, 6 Super Executive Rooms, 18 Executive Rooms and 10 Standard Rooms.  
+The Grand Highness is eager to provide you personal hospitality, efficient services & sincere care to ensure that your stay with us is safe, comfortable and memorable. We hope you will find HOTEL THE GRAND HIGHNESS a home away from home. Similar facilities of 3*** category. Its only 7 K.M. from Diu Airport & 0.5 K.M from Diu Bus Stand. 
 ***
 **Apart from the features listed, this hotel offers**
 - Airport Transfers
