@@ -16,14 +16,7 @@ subtitle= "Call us for today's best price"
   [[header.values]]
     text = "Room Only"
 
-  [[header.values]]
-    text = "With Breakfast"
 
-  [[header.values]]
-    text = "Breakfast+ Lunch/Dinner"
-
-  [[header.values]]
-    text = "Breakfast + Lunch + Dinner"
 
 
 [[rows]]
@@ -51,13 +44,6 @@ subtitle= "Call us for today's best price"
     header = "Presidential Suite"
 
   [[rows.values]]
-    text = "Rs. 5005"
+    text = "Call 7016528702"
 
-  [[rows.values]]
-    text = "Rs. 6005"
 
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
-+++
