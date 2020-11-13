@@ -24,7 +24,7 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "1800 + "
+    text = "Call us for best price "
 
 
 
@@ -34,23 +34,8 @@ subtitle= "Call us today for the best price"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "Rs. 2300 onwards"
+    text = "call us for best price"
 
 
-    
-[[rows]]
 
- [[rows.values]]
-    header = "Suite"
-
-  [[rows.values]]
-    text = "Rs. 5005"
-
-  [[rows.values]]
-    text = "Rs. 6005"
-
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
 +++
