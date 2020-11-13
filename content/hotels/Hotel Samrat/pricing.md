@@ -2,7 +2,7 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 110
+weight = 105
 background = "white"
 
 title = "Pricing"
@@ -29,7 +29,8 @@ subtitle= "Call us today for the best price"
   [[rows.values]]
     text = "Rs. 2297/-"
     
-    
+   [[rows.values]]
+    text = "Rs. 2488"  
 
 
 [[rows]]
