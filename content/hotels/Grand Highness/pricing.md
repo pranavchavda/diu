@@ -6,13 +6,10 @@ weight = 105
 background = "white"
 
 title = "Pricing"
-subtitle= "Call us for today's best price"
+subtitle= "[Call us for today's best price](tel:9869779944)"
 #title_align = "left" # Default is center, can be left, right or center
 
-[[buttons]]
-  text = "Call Now For Today's Best Price"
-  url = "tel:9869779944"
-  color = "success"
+
   
 [header]
   [[header.values]]
@@ -29,7 +26,7 @@ subtitle= "Call us for today's best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "Rs. 1800"
+    text = "₹ 1800"
 
 
 
@@ -39,7 +36,7 @@ subtitle= "Call us for today's best price"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "Rs. 2300"
+    text = "₹ 2300"
 
  
     
