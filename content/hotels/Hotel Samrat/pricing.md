@@ -19,36 +19,24 @@ subtitle= "Call us today for the best price"
   [[header.values]]
     text = "With Breakfast"
 
-  [[header.values]]
-    text = "Breakfast+ Lunch/Dinner"
 
-  [[header.values]]
-    text = "Breakfast + Lunch + Dinner"
 
 
 [[rows]]
   [[rows.values]]
-    header = "Standard Room"
+    header = "Luxury AC"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 2297/-"
 
-  [[rows.values]]
-    text = "Rs. 6000"
-
-  [[rows.values]]
-    text = "Rs. 7000"
-
-  [[rows.values]]
-    text = "Rs. 8000"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Delux Twin Bed"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 2297"
 
   [[rows.values]]
     text = "Rs. 6001"
