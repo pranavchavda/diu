@@ -8,12 +8,12 @@ weight = 50
 background = "transparent" # can influence the text color
 particles = false
 
-title = "Grand Highness"
+title = "Hotel Samrat"
 subtitle = "Call the Number Below to Book at the Best Possible Tarrif"
 color = "#f0f0f0"
 
 [header]
-  image = "Grand Highness.jpeg"
+  image = "krishna.png"
   height = "100px"
 
 [[buttons]]
