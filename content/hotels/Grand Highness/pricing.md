@@ -38,12 +38,6 @@ subtitle= "Call us for today's best price"
 
  
     
-[[rows]]
 
- [[rows.values]]
-    header = "Presidential Suite"
-
-  [[rows.values]]
-    text = "Call 7016528702"
 
 
