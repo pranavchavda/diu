@@ -15,7 +15,15 @@ subtitle= "Call us today for the best price"
 
   [[header.values]]
     text = "Room Only"
-"
+
+  [[header.values]]
+    text = "With Breakfast"
+
+  [[header.values]]
+    text = "Breakfast+ Lunch/Dinner"
+
+  [[header.values]]
+    text = "Breakfast + Lunch + Dinner"
 
 
 [[rows]]
@@ -23,17 +31,48 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "1800 "
+    text = "Rs. 2100"
 
+  [[rows.values]]
+    text = "Rs. 6300"
 
+  [[rows.values]]
+    text = "Rs. 7300"
+
+  [[rows.values]]
+    text = "Rs. 8300"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Executive Room"
+    header = "Delux Room"
 
   [[rows.values]]
-    text = "2300"
+    text = "Rs. 5001"
+
+  [[rows.values]]
+    text = "Rs. 6001"
+
+  [[rows.values]]
+    text = "Rs. 7001"
+  [[rows.values]]
+    text = "Rs. 8001"
+    
+[[rows]]
+
+ [[rows.values]]
+    header = "Suite"
+
+  [[rows.values]]
+    text = "Rs. 5005"
+
+  [[rows.values]]
+    text = "Rs. 6005"
+
+  [[rows.values]]
+    text = "Rs. 17001"
+  [[rows.values]]
+    text = "Rs. 18001"
 
 
 
