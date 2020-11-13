@@ -9,6 +9,11 @@ title = "Pricing"
 subtitle= "Call us for today's best price"
 #title_align = "left" # Default is center, can be left, right or center
 
+[[buttons]]
+  text = "Long Button"
+  url = "#"
+  color = "success"
+  
 [header]
   [[header.values]]
     text = "Category"
