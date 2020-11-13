@@ -1,5 +1,4 @@
 +++
-- # call us for today's special discount.
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
@@ -24,7 +23,7 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "Call us for best price "
+    text = "1800 "
 
 
 
@@ -34,7 +33,7 @@ subtitle= "Call us today for the best price"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "call us for best price"
+    text = "2300"
 
 
 
