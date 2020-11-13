@@ -27,7 +27,7 @@ subtitle= "Call us today for the best price"
     header = "Luxury AC"
 
   [[rows.values]]
-    text = "Rs. 2297/-"
+    text = "Rs. 2297"
     
    [[rows.values]]
     text = "Rs. 2488"  
