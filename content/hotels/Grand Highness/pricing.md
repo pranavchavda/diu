@@ -1,5 +1,5 @@
 +++
-- # Daily prices may change. contact us for todays best price
+- # call us for today's special discount.
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
@@ -24,7 +24,7 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "Rs. 1800 onwards"
+    text = "1800 + "
 
 
 
