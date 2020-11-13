@@ -1,4 +1,5 @@
 +++
+- # Daily prices may change. contact us for todays best price
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
@@ -33,7 +34,7 @@ subtitle= "Call us today for the best price"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "Rs. 1800 onwards"
+    text = "Rs. 2300 onwards"
 
 
     
