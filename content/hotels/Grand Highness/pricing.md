@@ -34,45 +34,46 @@ subtitle= "Call us today for the best price"
     text = "Rs. 2100"
 
   [[rows.values]]
-    text = "Rs. 6300"
+    text = "N A "
 
   [[rows.values]]
-    text = "Rs. 7300"
+    text = "N A"
 
   [[rows.values]]
-    text = "Rs. 8300"
+    text = "Rs. N A"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Executive Room"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 2400"
 
   [[rows.values]]
-    text = "Rs. 6001"
+    text = "N A"
 
   [[rows.values]]
-    text = "Rs. 7001"
+    text = "N A "
+    
   [[rows.values]]
-    text = "Rs. 8001"
+    text = "N A"
     
 [[rows]]
 
  [[rows.values]]
-    header = "Suite"
+    header = "President Suit"
 
   [[rows.values]]
-    text = "Rs. 5005"
+    text = "Call Us"
 
   [[rows.values]]
-    text = "Rs. 6005"
+    text = "Call Us"
 
   [[rows.values]]
-    text = "Rs. 17001"
+    text = "N.A"
   [[rows.values]]
-    text = "Rs. 18001"
+    text = "N A"
 
 
 
