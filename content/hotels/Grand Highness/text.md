@@ -18,10 +18,12 @@ align = "left"
 +++
 
 
-The Grand Highness is eager to provide you personal hospitality, efficient services & sincere care to ensure that your stay with us is safe, comfortable and memorable. We hope you will find HOTEL THE GRAND HIGHNESS a home away from home. Similar facilities of 3*** category. Its only 7 K.M. from Diu Airport & 0.5 K.M from Diu Bus Stand. 
+The Grand Highness is eager to give you personal warm reception,good hospitality, efficient services & sincere care to ensure that your stay with us is safe, comfortable and memorable. Similar facilities of 3*** category. Its only 7 K.M. from Diu Airport & 0.5 K.M from Diu Bus Stand.
+
+
 ***
 **Apart from the features listed, this hotel offers**
-- Airport Transfers
-- Tour Desk
+- Restaurant
+- conference Hall
 - 24/7 Front Desk
 - Terrace
