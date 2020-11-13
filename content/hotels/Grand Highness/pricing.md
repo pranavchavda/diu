@@ -10,8 +10,8 @@ subtitle= "Call us for today's best price"
 #title_align = "left" # Default is center, can be left, right or center
 
 [[buttons]]
-  text = "Long Button"
-  url = "#"
+  text = "Call Now For Today's Best Price"
+  url = "tel:9869779944"
   color = "success"
   
 [header]
