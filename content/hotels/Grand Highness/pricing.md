@@ -23,7 +23,7 @@ subtitle= "Call us today for the best price"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "Rs. 5300"
+    text = "Rs. 1800 onwards"
 
 
 
