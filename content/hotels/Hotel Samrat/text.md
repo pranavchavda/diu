@@ -19,8 +19,7 @@ align = "left"
 
  Hotel Samrat
 ***
-**Apart from the features listed, this hotel offers**
-- Airport Transfers
-- Tour Desk
-- 24/7 Front Desk
-- Terrace
+**Apart from the features listed**
+- 6 km from Airport
+- Walking distance from Main Bus Station
+- close proximity with historical places
