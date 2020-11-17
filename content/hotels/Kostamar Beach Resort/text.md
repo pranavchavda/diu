@@ -18,6 +18,12 @@ align = "left"
 
 
  Kostamar Beach Resort
+ 
+  one of the leading service provider in Diu. Kostamar have in all 58 rooms out of which 48 are Royal Deluxe, 06 are Royal Villas and 04 are Royal Suite Rooms.
+
+They have a Conference Hall for Parties, Conferences, Get together and much more which can accommodate 150 Guests. They also have a Coffee Shop where Multi Cuisine Menu is served.
+
+They have a Lavish Swimming Pool on the ground level with modern amenities. At times, we lay a wonderful pool buffet for most of our prestigious client in Gujarat. We also have a ocean view terrace rooftop restaurant which has a unique concept of live kitchen. This restaurant is beach facing and with a new concept, Live Kitchen & Bar. With the most experienced Chef on Board and with the ability to juggle with the recipes and the leadership quality of the Management team, I believe with this contribution today we have reached this level.
 ***
 **Apart from the features listed, this hotel offers**
 - Airport Transfers
