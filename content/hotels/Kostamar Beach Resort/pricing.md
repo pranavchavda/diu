@@ -22,19 +22,13 @@ subtitle= "Call us today for the best price"
 
 [[rows]]
   [[rows.values]]
-    header = "Standard Room"
+    header = "Royal Deluxe"
+
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 4371"
 
-  [[rows.values]]
-    text = "Rs. 6000"
-
-  [[rows.values]]
-    text = "Rs. 7000"
-
-  [[rows.values]]
-    text = "Rs. 8000"
+ 
 
 [[rows]]
 
