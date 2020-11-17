@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "apar.jpg"
+  image = "kohinoor 4.jpg"
   align = "top"
 
  [[buttons]]
