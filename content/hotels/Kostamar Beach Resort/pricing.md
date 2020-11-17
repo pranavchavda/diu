@@ -26,7 +26,7 @@ subtitle= "Call us today for the best price"
 
 
   [[rows.values]]
-    text = "Rs. 5371 + 1% Cashback on Check out"
+    text = "Rs. 5371"
 
  
 
