@@ -23,10 +23,11 @@ align = "left"
 
 They have a Conference Hall for Parties, Conferences, Get together and much more which can accommodate 150 Guests. They also have a Coffee Shop where Multi Cuisine Menu is served.
 
-They have a Lavish Swimming Pool on the ground level with modern amenities. At times, we lay a wonderful pool buffet for most of our prestigious client in Gujarat. We also have a ocean view terrace rooftop restaurant which has a unique concept of live kitchen. This restaurant is beach facing and with a new concept, Live Kitchen & Bar. With the most experienced Chef on Board and with the ability to juggle with the recipes and the leadership quality of the Management team, I believe with this contribution today we have reached this level.
+They have a Lavish Swimming Pool on the ground level with modern amenities. At times, They lay a wonderful pool buffet for most of very prestigious clients of Gujarat. An ocean view terrace rooftop restaurant which has a unique concept of live kitchen. This restaurant is beach facing and with a new concept, Live Kitchen & Bar. With the most experienced Chef on Board and with the ability to juggle with the recipes and the leadership quality of the Management team, Kostamar is one of the best place to be in. 
 ***
 **Apart from the features listed, this hotel offers**
-- Airport Transfers
-- Tour Desk
+- Wheel Chair accesibility
+- AC Bar and Restaurant
 - 24/7 Front Desk
-- Terrace
+- Terrace Bar and Restaurant
+- 
