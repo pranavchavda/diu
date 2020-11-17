@@ -30,4 +30,4 @@ They have a Lavish Swimming Pool on the ground level with modern amenities. At t
 - AC Bar and Restaurant
 - 24/7 Front Desk
 - Terrace Bar and Restaurant
-- 
+- Medical Assistance
