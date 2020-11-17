@@ -17,7 +17,7 @@ align = "left"
 +++
 
 
- Kostamar Beach Resort
+ ## Kostamar Beach Resort
  
   one of the leading service provider in Diu. Kostamar have in all 58 rooms out of which 48 are Royal Deluxe, 06 are Royal Villas and 04 are Royal Suite Rooms.
 
