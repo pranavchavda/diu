@@ -26,39 +26,9 @@ subtitle= "Call us today for the best price"
 
 
   [[rows.values]]
-    text = "Rs. 4371"
+    text = "Rs. 5371 + 1% Cashback on Check out"
 
  
 
-[[rows]]
 
-[[rows.values]]
-    header = "Delux Room"
-
-  [[rows.values]]
-    text = "Rs. 5001"
-
-  [[rows.values]]
-    text = "Rs. 6001"
-
-  [[rows.values]]
-    text = "Rs. 7001"
-  [[rows.values]]
-    text = "Rs. 8001"
-    
-[[rows]]
-
- [[rows.values]]
-    header = "Suite"
-
-  [[rows.values]]
-    text = "Rs. 5005"
-
-  [[rows.values]]
-    text = "Rs. 6005"
-
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
 +++
