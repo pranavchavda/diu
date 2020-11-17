@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "apar.jpg"
+  image = "1.jpg"
   align = "top"
 
  [[buttons]]
