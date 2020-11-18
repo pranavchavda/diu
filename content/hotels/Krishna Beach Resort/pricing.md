@@ -2,11 +2,11 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 110
+weight = 108
 background = "white"
 
 title = "Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "[Call us]( to get Book Now Pay later link. EMI option available"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
