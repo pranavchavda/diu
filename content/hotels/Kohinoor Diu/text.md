@@ -17,10 +17,16 @@ align = "left"
 +++
 
 
- Kohinoor Hotel, Diu. 
+ ## Kohinoor Hotel, Diu. 
 ***
 **Apart from the features listed, this hotel offers**
-- Airport Transfers
-- Tour Desk
-- 24/7 Front Desk
-- Terrace
+- Concierge
+- Wheel-chair
+- 24/7 Reception
+- CC TV
+- Bar
+- Cafe
+- Dining Area
+- Gym
+- First Aid
+- 
