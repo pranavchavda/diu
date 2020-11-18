@@ -6,7 +6,7 @@ weight = 108
 background = "white"
 
 title = "Pricing"
-subtitle= "[Call us]( to get Book Now Pay later link. EMI option available"
+subtitle= "Book Now Pay Later. [Call us](tel:+91-9869779922) to get Book Now Pay later link. EMI option also available"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
