@@ -34,7 +34,7 @@ subtitle= "Call us today for the best price"
     text = "Rs. 5000"
 
   [[rows.values]]
-    text = "Rs. 6000"
+    text = "Rs. 4750"
 
   [[rows.values]]
     text = "Rs. 7000"
