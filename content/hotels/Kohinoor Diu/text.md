@@ -29,4 +29,6 @@ align = "left"
 - Dining Area
 - Gym
 - First Aid
-- 
+- Indoor Games
+- Spa
+- Paid Airport Transfers
