@@ -16,61 +16,26 @@ subtitle= "Call us today for the best price"
   [[header.values]]
     text = "Room Only"
 
-  [[header.values]]
-    text = "With Breakfast"
 
-  [[header.values]]
-    text = "Breakfast+ Lunch/Dinner"
-
-  [[header.values]]
-    text = "Breakfast + Lunch + Dinner"
 
 
 [[rows]]
   [[rows.values]]
-    header = "Standard Room"
+    header = "Royal Deluxe Twin Bed"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 4000"
 
-  [[rows.values]]
-    text = "Rs. 6000"
-
-  [[rows.values]]
-    text = "Rs. 7000"
-
-  [[rows.values]]
-    text = "Rs. 8000"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Royal Executive"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 4500"
 
-  [[rows.values]]
-    text = "Rs. 6001"
-
-  [[rows.values]]
-    text = "Rs. 7001"
-  [[rows.values]]
-    text = "Rs. 8001"
+ 
     
-[[rows]]
 
- [[rows.values]]
-    header = "Suite"
-
-  [[rows.values]]
-    text = "Rs. 5005"
-
-  [[rows.values]]
-    text = "Rs. 6005"
-
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
 +++
