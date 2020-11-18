@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "apar.jpg"
+  image = "Krishna 2.png"
   align = "top"
 
  [[buttons]]
