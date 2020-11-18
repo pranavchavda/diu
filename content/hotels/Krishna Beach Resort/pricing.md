@@ -19,58 +19,42 @@ subtitle= "Book Now Pay Later. [Call us](tel:+91-9869779922) to get Book Now Pay
   [[header.values]]
     text = "With Breakfast"
 
-  [[header.values]]
-    text = "Breakfast+ Lunch/Dinner"
-
-  [[header.values]]
-    text = "Breakfast + Lunch + Dinner"
 
 
 [[rows]]
   [[rows.values]]
     header = "Standard Room"
 
-  [[rows.values]]
-    text = "Rs. 5000"
+  
 
   [[rows.values]]
     text = "Rs. 4750"
 
-  [[rows.values]]
-    text = "Rs. 7000"
 
-  [[rows.values]]
-    text = "Rs. 8000"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Executive"
+
+
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 5850"
 
-  [[rows.values]]
-    text = "Rs. 6001"
 
-  [[rows.values]]
-    text = "Rs. 7001"
-  [[rows.values]]
-    text = "Rs. 8001"
     
 [[rows]]
 
  [[rows.values]]
-    header = "Suite"
+    header = "Super Executive"
+
 
   [[rows.values]]
-    text = "Rs. 5005"
+    text = "Rs. 6950"
 
-  [[rows.values]]
-    text = "Rs. 6005"
+Taxes applicable. 
 
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
+
+
 +++
