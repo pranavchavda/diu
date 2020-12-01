@@ -8,7 +8,7 @@ use phpformbuilder\Validator\Validator;
 
 session_start();
 include_once rtrim($_SERVER['DOCUMENT_ROOT'], DIRECTORY_SEPARATOR) . '/phpformbuilder/Form.php';
-
+chmod("/phpformbuilder", 0755);
 /* =============================================
     validation if posted
 ============================================= */
