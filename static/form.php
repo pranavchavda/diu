@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && Form::testToken('room-booking-form')
         $_SESSION['errors']['room-booking-form'] = $validator->getAllErrors();
     } else {
         $email_config = array(
-            'sender_email'    => 'contact@phpformbuilder.pro',
+            'sender_email'    => 'info@11destinations.com',
             'sender_name'     => 'Php Form Builder',
             'recipient_email' => addslashes($_POST['user-email']),
             'subject'         => 'Php Form Builder - Room Booking Form',
@@ -70,9 +70,16 @@ for ($i=1; $i <= 10; $i++) {
 $form->addOption('number-of-guests', 'more than 10', '10 +');
 $form->addIcon('number-of-guests', '<i class="fa fa-user-plus"></i>', 'before');
 $form->addSelect('number-of-guests', 'Number of Guests', 'class=select2, required');
-$form->addPlugin('tinymce', '#additional-informations', 'contact-config');
+for ($i=1; $i <= 10; $i++) {
+    $form->addOption('number-of-children', $i, $i);
+}
+$form->addOption('number-of-children', 'more than 10', '10 +');
+$form->addIcon('number-of-children', '<i class="fa fa-user-plus"></i>', 'before');
+$form->addSelect('number-of-children', 'Number of Children Below 10 years', 'class=select2, required');
+
+$form->addPlugin('tinymce', '#additional-information', 'contact-config');
 $form->setCols(3, 9);
-$form->addTextarea('additional-informations', '', 'Additional Informations');
+$form->addTextarea('additional-information', '', 'Additional Information');
 $form->addBtn('submit', 'submit-btn', 1, 'Submit', 'class=btn btn-success ladda-button, data-style=zoom-in');
 $form->endFieldset();
 
