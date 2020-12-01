@@ -25,10 +25,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && Form::testToken('room-booking-form')
         $_SESSION['errors']['room-booking-form'] = $validator->getAllErrors();
     } else {
         $email_config = array(
-            'sender_email'    => 'info@11destinations.com',
-            'sender_name'     => 'Php Form Builder',
-            'recipient_email' => addslashes($_POST['user-email']),
-            'subject'         => 'Php Form Builder - Room Booking Form',
+            'sender_email'    => 'info@stayindiu.com',
+            'sender_name'     => 'Stay in Diu',
+            'recipient_email' => 'info@11destinations.com',
+            'subject'         => 'Stay in Diu - Room Booking Form',
             'filter_values'   => 'room-booking-form'
         );
         $sent_message = Form::sendMail($email_config);
@@ -92,7 +92,7 @@ $form->addPlugin('formvalidation', '#room-booking-form');
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Bootstrap 4 Room Booking Form - How to create PHP forms easily</title>
+    <title>Form</title>
     <meta name="description" content="Bootstrap 4 Form Generator - how to create a Room Booking Form with Php Form Builder Class">
     <link rel="canonical" href="https://www.phpformbuilder.pro/templates/bootstrap-4-forms/room-booking-form.php" />
 
@@ -106,7 +106,6 @@ $form->addPlugin('formvalidation', '#room-booking-form');
     <?php $form->printIncludes('css'); ?>
 </head>
 <body>
-    <h1 class="text-center">Php Form Builder - Room Booking Form<br><small>with Rich Text Editor and date picker</small></h1>
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-11 col-lg-10">
