@@ -75,7 +75,7 @@ $form->addOption('number-of-children', 'more than 10', '10 +');
 $form->addIcon('number-of-children', '<i class="fa fa-user-plus"></i>', 'before');
 $form->addSelect('number-of-children', 'Number of Children Below 10 years', 'class=select2, required');
 
-$form->addPlugin('tinymce', '#additional-information', 'contact-config');
+#$form->addPlugin('tinymce', '#additional-information', 'contact-config');
 $form->setCols(3, 9);
 $form->addTextarea('additional-information', '', 'Additional Information');
 $form->addBtn('submit', 'submit-btn', 1, 'Submit', 'class=btn btn-success ladda-button, data-style=zoom-in');
