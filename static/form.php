@@ -38,9 +38,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && Form::testToken('room-booking-form')
 /* ==================================================
     The Form
 ================================================== */
-$form->setOptions(['ajax' => true]);
 
 $form = new Form('room-booking-form', 'horizontal', 'novalidate');
+$form->setOptions(['ajax' => true]);
 // $form->setMode('development');
 
 $form->startFieldset('Stay in Diu');
