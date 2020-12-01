@@ -51,9 +51,9 @@ subtitle= "Book Now Pay Later. [Call us](tel:+91-9869779922) to get Book Now Pay
 
 
   [[rows.values]]
-    text = "Rs. 6950"
+    text = "Rs. 6950 <br /> Taxes applicable"
 
-Taxes applicable. 
+ 
 
 
 

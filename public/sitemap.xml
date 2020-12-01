@@ -3,39 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://stayindiu.com/</loc>
-    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-11-08T20:40:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/hotels/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <loc>/hotels/apar-hotel/</loc>
+    <lastmod>2020-11-10T21:40:05+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/hotels/krishna-beach-resort/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <loc>/copies/</loc>
+    <lastmod>2020-11-13T17:35:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/</loc>
-    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+    <loc>/copies/hotel-samrat/</loc>
+    <lastmod>2020-11-13T17:35:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/_global/</loc>
+    <loc>/hotels/hotel-samrat/</loc>
+    <lastmod>2020-11-11T14:00:05+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/categories/</loc>
+    <loc>/hotels/</loc>
+    <lastmod>2020-11-17T21:15:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/origin/</loc>
+    <loc>/hotels/kohinoor-diu/</loc>
+    <lastmod>2020-11-17T21:15:04+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://stayindiu.com/tags/</loc>
+    <loc>/hotels/kostamar-beach-resort/</loc>
+    <lastmod>2020-11-17T16:55:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hotels/krishna-beach-resort/</loc>
+    <lastmod>2020-11-11T13:55:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hotels/palacio-de-diu/</loc>
+    <lastmod>2020-11-11T13:50:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hotels/palms-beach-resort/</loc>
+    <lastmod>2020-11-11T13:50:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hotels/radhika-beach-resort/</loc>
+    <lastmod>2020-11-10T19:20:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hotels/rainbow-resort/</loc>
+    <lastmod>2020-11-11T20:30:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-11-17T21:15:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hotels/grand-highness/</loc>
+    <lastmod>2020-11-12T19:10:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/_global/</loc>
+    <lastmod>2020-10-25T01:08:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/origin/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

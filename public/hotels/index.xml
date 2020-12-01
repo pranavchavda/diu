@@ -2,17 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hotels on Stay in Diu</title>
-    <link>http://stayindiu.com/hotels/</link>
+    <link>/hotels/</link>
     <description>Recent content in Hotels on Stay in Diu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://stayindiu.com/hotels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="/hotels/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Krishna Beach Resort</title>
-      <link>http://stayindiu.com/hotels/krishna-beach-resort/</link>
+      <title>Apar Hotel, Diu</title>
+      <link>/hotels/apar-hotel/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://stayindiu.com/hotels/krishna-beach-resort/</guid>
+      <guid>/hotels/apar-hotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hotel Samrat</title>
+      <link>/hotels/hotel-samrat/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/hotel-samrat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kohinoor Hotel,Diu</title>
+      <link>/hotels/kohinoor-diu/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/kohinoor-diu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kostamar Beach Resort</title>
+      <link>/hotels/kostamar-beach-resort/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/kostamar-beach-resort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krishna Beach Resort</title>
+      <link>/hotels/krishna-beach-resort/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/krishna-beach-resort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palacio de Diu</title>
+      <link>/hotels/palacio-de-diu/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/palacio-de-diu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palm Beach Resort</title>
+      <link>/hotels/palms-beach-resort/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/palms-beach-resort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radhika Beach Resort</title>
+      <link>/hotels/radhika-beach-resort/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/radhika-beach-resort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainbow Resort</title>
+      <link>/hotels/rainbow-resort/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/rainbow-resort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Grand Highness</title>
+      <link>/hotels/grand-highness/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/hotels/grand-highness/</guid>
       <description></description>
     </item>
     

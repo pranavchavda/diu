@@ -9,7 +9,7 @@ background = "transparent" # can influence the text color
 particles = false
 
 title = "Kostamar Beach Resort"
-subtitle = "Call the Number Below to Book at the Best Possible Tarrif"
+subtitle = "Call the Number Below to Book at the Best Possible Tariff"
 color = "#f0f0f0"
 
 [header]
