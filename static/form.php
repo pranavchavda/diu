@@ -38,9 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && Form::testToken('room-booking-form')
 /* ==================================================
     The Form
 ================================================== */
-
 $form = new Form('room-booking-form', 'horizontal', 'novalidate');
-$form->setOptions(['ajax' => true]);
 // $form->setMode('development');
 
 $form->startFieldset('Stay in Diu');
@@ -89,8 +87,6 @@ $form->addPlugin('formvalidation', '#room-booking-form');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -123,6 +119,7 @@ $form->addPlugin('formvalidation', '#room-booking-form');
 
     <!-- jQuery -->
 
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 
     <!-- Bootstrap 4 JavaScript -->
 
