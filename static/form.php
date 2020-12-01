@@ -68,7 +68,7 @@ for ($i=1; $i <= 10; $i++) {
 $form->addOption('number-of-guests', 'more than 10', '10 +');
 $form->addIcon('number-of-guests', '<i class="fa fa-user-plus"></i>', 'before');
 $form->addSelect('number-of-guests', 'Number of Guests', 'class=select2, required');
-for ($i=1; $i <= 10; $i++) {
+for ($i=0; $i <= 10; $i++) {
     $form->addOption('number-of-children', $i, $i);
 }
 $form->addOption('number-of-children', 'more than 10', '10 +');
