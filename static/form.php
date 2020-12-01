@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && Form::testToken('room-booking-form')
 $form = new Form('room-booking-form', 'horizontal', 'novalidate');
 // $form->setMode('development');
 
-$form->startFieldset('Book a Room');
+$form->startFieldset('Stay in Diu');
 $form->setCols(3, 4);
 $form->groupInputs('first-name', 'last-name');
 $form->addHelper('First name', 'first-name');
