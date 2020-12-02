@@ -73,7 +73,7 @@ for ($i=0; $i <= 10; $i++) {
 }
 $form->addOption('number-of-children', 'more than 10', '10 +');
 $form->addIcon('number-of-children', '<i class="fa fa-child"></i>', 'before');
-$form->addSelect('number-of-children', 'Number of Children Below 10 years', 'class=select2, required');
+$form->addSelect('number-of-children', 'Number of Children Between 5 and 10 Years Old', 'class=select2, required');
 
 #$form->addPlugin('tinymce', '#additional-information', 'contact-config');
 $form->setCols(3, 9);
