@@ -31,10 +31,10 @@ subtitle= "Exclusive prices from 24th December to 31st December"
     header = "Premium Room"
 
   [[rows.values]]
-    text = "Rs. 4131+Tax"
+    text = "Rs. 4131+GST"
 
   [[rows.values]]
-    text = "Rs. 6000"
+    text = "Rs. 4580+GST"
 
   [[rows.values]]
     text = "Rs. 7000"
