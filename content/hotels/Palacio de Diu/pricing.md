@@ -27,7 +27,6 @@ subtitle= "Call us today for the best price"
     text = "Rs. 2167"
 
 
-
 [[rows]]
 
 [[rows.values]]
@@ -35,8 +34,4 @@ subtitle= "Call us today for the best price"
 
   [[rows.values]]
     text = "Rs. 4339"
-
-
-* ## Xmas 19th December to 31st December pricing 9500/- Standard double bed Room    
-
 +++
