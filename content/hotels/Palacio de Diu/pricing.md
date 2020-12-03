@@ -16,14 +16,7 @@ subtitle= "Call us today for the best price"
   [[header.values]]
     text = "Room Only"
 
-  [[header.values]]
-    text = "With Breakfast"
 
-  [[header.values]]
-    text = "Breakfast+ Lunch/Dinner"
-
-  [[header.values]]
-    text = "Breakfast + Lunch + Dinner"
 
 
 [[rows]]
