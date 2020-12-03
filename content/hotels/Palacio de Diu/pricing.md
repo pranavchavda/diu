@@ -21,49 +21,22 @@ subtitle= "Call us today for the best price"
 
 [[rows]]
   [[rows.values]]
-    header = "Standard Room"
+    header = "Standard Double Bed"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 2167"
 
-  [[rows.values]]
-    text = "Rs. 6000"
 
-  [[rows.values]]
-    text = "Rs. 7000"
-
-  [[rows.values]]
-    text = "Rs. 8000"
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Delux Tripple bed"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 4339"
 
-  [[rows.values]]
-    text = "Rs. 6001"
 
-  [[rows.values]]
-    text = "Rs. 7001"
-  [[rows.values]]
-    text = "Rs. 8001"
     
-[[rows]]
 
- [[rows.values]]
-    header = "Suite"
-
-  [[rows.values]]
-    text = "Rs. 5005"
-
-  [[rows.values]]
-    text = "Rs. 6005"
-
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
 +++
