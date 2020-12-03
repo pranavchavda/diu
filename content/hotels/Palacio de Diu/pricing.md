@@ -16,9 +16,6 @@ subtitle= "Call us today for the best price"
   [[header.values]]
     text = "Room Only"
 
-
-
-
 [[rows]]
   [[rows.values]]
     header = "Standard Double Bed"
