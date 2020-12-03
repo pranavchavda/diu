@@ -87,7 +87,7 @@ lastmod = ["lastmod", ":git", "date"]
 #  weight = 25
 
   [[menu.main]]
-  url = "/pay"
+  url = "https://pay.11destinations.com"
   name = "Pay Online"
   weight = 27
 
