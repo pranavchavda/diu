@@ -18,6 +18,8 @@ align = "left"
 
 
  # Hotel Apaar
+  Hotel Apaar is very famous hotel of diu. Apaar Hotel is located on the Diu island exactly on the sea shore and offers warm hospitality and all the modern amenities for a comfortable stay. The hotel rooms are well furnished with ample space.
+  
 ***
 **Apart from the features listed, this hotel offers**
 - Paid Airport Transfers
