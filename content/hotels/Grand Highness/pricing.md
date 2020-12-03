@@ -16,7 +16,7 @@ subtitle= "[Call us for today's best price](tel:9869779944)"
     text = "Category"
 
   [[header.values]]
-    text = "Room Only"
+    text = "Room Only."
 
 
 
