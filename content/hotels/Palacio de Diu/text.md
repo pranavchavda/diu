@@ -18,7 +18,7 @@ align = "left"
 +++
 
 
-Hotel Palacio de Diu is located at the heart of Diu Town. Every Historical Place like Diu Fort, Pani Kotha, St. Pauls Church, Church of St. Thomas aka Diu Museum, Diu Market falls in a radius of one kilometer from the Hotel. You will definetly have a great experience. You will find this hotel very affordable and top class   
+Hotel Palacio de Diu is located at the heart of Diu Town. Every Historical Place like Diu Fort, Pani Kotha, St. Pauls Church, Church of St. Thomas aka Diu Museum, Diu Market falls in a radius of one kilometer from the Hotel. You will definetly have a great experience. You will find this hotel very affordable and of top class.    
 ***
 **Apart from the features listed, this hotel offers**
 - Paid Airport Transfers
