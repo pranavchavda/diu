@@ -18,7 +18,7 @@ align = "left"
 +++
 
 
- Located at the Picturesque Location of Nagoa Beach, Palacio de Diu is a perfect place to spend your beach vacation while in Diu. They have total 36 Rooms, Including 2 Suites, 6 Super Executive Rooms, 18 Executive Rooms and 10 Standard Rooms.  
+Hotel Palacio de Diu is located at the heart of Diu Town. Every Historical Place like Diu Fort, Pani Kotha, St. Pauls Church, Church of St. Thomas aka Diu Museum, Diu Market falls in a radius of one kilometer from the Hotel. You will definetly have a great experience.  
 ***
 **Apart from the features listed, this hotel offers**
 - Airport Transfers
