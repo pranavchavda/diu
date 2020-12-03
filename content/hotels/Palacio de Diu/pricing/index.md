@@ -1,5 +1,5 @@
 +++
-fragment = "pricing"
+fragment = "X Mas Seasonpricing"
 weight = 110
 background = "secondary"
 
