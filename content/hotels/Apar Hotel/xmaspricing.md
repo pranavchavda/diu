@@ -6,7 +6,7 @@ weight = 108
 background = "white"
 
 title = "X Mas Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "Exclusive prices from 24th December to 31st December"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
