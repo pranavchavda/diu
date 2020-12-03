@@ -1,7 +1,7 @@
 +++
 weight = 10
 
-title = "Standard Room"
+title = "Standard douoble bed "
 subtitle = "starting at"
 
 price = "₹2000"
