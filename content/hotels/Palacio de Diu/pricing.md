@@ -37,6 +37,6 @@ subtitle= "Call us today for the best price"
     text = "Rs. 4339"
 
 
-    
+* Xmas 24th Dec to 1st Jan pricing 9500/- Standard double bed Room    
 
 +++
