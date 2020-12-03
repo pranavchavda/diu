@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "Satisfaction-Guarantee-Extension.jpg"
+  image = "Palacio de diu 8.jpg"
   align = "top"
 
 
