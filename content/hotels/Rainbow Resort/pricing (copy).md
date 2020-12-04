@@ -5,8 +5,8 @@ date = "2017-10-10"
 weight = 107
 background = "white"
 
-title = "Xmas Exclusive Pricing"
-subtitle= "Total Payable, No Hidden Cost: PAY what you SEE"
+title = "Xmas Exclusive Total Payable"
+subtitle= "Call 9869779922 to book"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]

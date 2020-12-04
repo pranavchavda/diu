@@ -6,7 +6,7 @@ weight = 109
 background = "white"
 
 title = "Total Payable (Regular)"
-subtitle= "Pay what you See:No Hidden Cost"
+subtitle= "Call 9869779922 to book"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
