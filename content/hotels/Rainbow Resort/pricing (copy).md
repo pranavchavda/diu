@@ -26,10 +26,10 @@ subtitle= "Call us today for the best price"
     header = "Standard double"
 
   [[rows.values]]
-    text = "Rs. 4463"
+    text = "Rs. 4340"
 
   [[rows.values]]
-    text = "Rs. 4964"
+    text = "Rs. 4880"
 
 
 [[rows]]
@@ -38,10 +38,10 @@ subtitle= "Call us today for the best price"
     header = "Delux double"
 
   [[rows.values]]
-    text = "Rs. 5579"
+    text = "Rs. 5425"
 
   [[rows.values]]
-    text = "Rs. 6137"
+    text = "Rs. 5967"
 
 
     
@@ -51,10 +51,10 @@ subtitle= "Call us today for the best price"
     header = "Std 4 Bed"
 
   [[rows.values]]
-    text = "Rs. 4546"
+    text = "Rs. 6500"
 
   [[rows.values]]
-    text = "Rs. 5455"
+    text = "Rs. 7593"
     
     
    [[rows]]
@@ -63,10 +63,10 @@ subtitle= "Call us today for the best price"
     header = "Dlx 4 Bed"
 
   [[rows.values]]
-    text = "Rs. 7253"
+    text = "Rs. 7050"
 
   [[rows.values]]
-    text = "Rs. 8366" 
+    text = "Rs. 8134" 
 
 
  [[rows]]
