@@ -31,27 +31,26 @@ subtitle= "Call us today for the best price"
     header = "Premium Room"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 1650"
 
   [[rows.values]]
-    text = "Rs. 6000"
+    text = "Rs. 2083"
 
   [[rows.values]]
-    text = "Rs. 7000"
+    text = "Rs. 3125"
 
-  [[rows.values]]
-    text = "Rs. 8000"
+
 
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Super Executive"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 2099"
 
   [[rows.values]]
-    text = "Rs. 6001"
+    text = "Rs. 2516"
 
   [[rows.values]]
     text = "Rs. 7001"
