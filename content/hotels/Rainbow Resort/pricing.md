@@ -5,8 +5,8 @@ date = "2017-10-10"
 weight = 109
 background = "white"
 
-title = "Pricing"
-subtitle= "Call us today for the best price"
+title = "Total Payable (Regular)"
+subtitle= "Pay what you See:No Hidden Cost"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
