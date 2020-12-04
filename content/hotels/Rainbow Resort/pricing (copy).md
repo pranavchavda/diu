@@ -2,7 +2,7 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 109
+weight = 107
 background = "white"
 
 title = "Pricing"
@@ -26,7 +26,7 @@ subtitle= "Call us today for the best price"
     header = "Standard double"
 
   [[rows.values]]
-    text = "Rs. 2728"
+    text = "Rs. 4463"
 
   [[rows.values]]
     text = "Rs. 3182"
