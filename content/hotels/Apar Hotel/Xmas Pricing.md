@@ -22,8 +22,7 @@ subtitle= "Call us today for the best price"
   [[header.values]]
     text = "Breakfast+ Lunch/Dinner"
 
-  [[header.values]]
-    text = "Breakfast + Lunch + Dinner"
+ 
 
 
 [[rows]]
@@ -39,8 +38,7 @@ subtitle= "Call us today for the best price"
   [[rows.values]]
     text = "Rs. 6290"
 
-  [[rows.values]]
-    text = "Rs. 8000"
+
 
 [[rows]]
 
@@ -54,25 +52,10 @@ subtitle= "Call us today for the best price"
     text = "Rs. 5530"
 
   [[rows.values]]
-    text = "Rs. 7001"
-  [[rows.values]]
-    text = "Rs. 8001"
+    text = "Rs. 6290"
+ 
     
-[[rows]]
 
- [[rows.values]]
-    header = "Suite"
-
-  [[rows.values]]
-    text = "Rs. 5005"
-
-  [[rows.values]]
-    text = "Rs. 6005"
-
-  [[rows.values]]
-    text = "Rs. 17001"
-  [[rows.values]]
-    text = "Rs. 18001"
     
     
     
