@@ -5,7 +5,7 @@ date = "2017-10-10"
 weight = 108
 background = "white"
 
-title = "Pricing"
+title = "Exclusive Xmas Pricing"
 subtitle= "Call us today for the best price"
 #title_align = "left" # Default is center, can be left, right or center
 
@@ -31,13 +31,13 @@ subtitle= "Call us today for the best price"
     header = "Premium Room"
 
   [[rows.values]]
-    text = "Rs. 5000"
+    text = "Rs. 4445"
 
   [[rows.values]]
-    text = "Rs. 6000"
+    text = "Rs. 4999"
 
   [[rows.values]]
-    text = "Rs. 7000"
+    text = "Rs. 6290"
 
   [[rows.values]]
     text = "Rs. 8000"
@@ -45,13 +45,13 @@ subtitle= "Call us today for the best price"
 [[rows]]
 
 [[rows.values]]
-    header = "Delux Room"
+    header = "Super Executive"
 
   [[rows.values]]
-    text = "Rs. 5001"
+    text = "Rs. 4988"
 
   [[rows.values]]
-    text = "Rs. 6001"
+    text = "Rs. 5530"
 
   [[rows.values]]
     text = "Rs. 7001"
