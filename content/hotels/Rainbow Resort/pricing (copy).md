@@ -6,7 +6,7 @@ weight = 107
 background = "white"
 
 title = "Xmas Exclusive Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "Extra person 2500/-"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
@@ -75,9 +75,13 @@ subtitle= "Call us today for the best price"
     header = "Suite Room"
 
   [[rows.values]]
-    text = "Rs. 7810"
+    text = "Rs. 7600"
 
   [[rows.values]]
-    text = "Rs. 8360" 
+    text = "Rs. 8135" 
+  
+  
+  
+  
   
 +++
