@@ -2,11 +2,11 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 105
+weight = 104
 background = "white"
 
-title = "Pricing"
-subtitle= "Call us today for the best price"
+title = "Exclusive Xmas-NY Pricing"
+subtitle= "Cheapest on the Internet"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
