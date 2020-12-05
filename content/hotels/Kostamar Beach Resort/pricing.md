@@ -26,7 +26,7 @@ subtitle= "Call 7016528702 to book at this price"
 
 
   [[rows.values]]
-    text = "Rs. 5371"
+    text = "Rs. 5434"
 
  
 

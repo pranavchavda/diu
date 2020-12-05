@@ -26,7 +26,7 @@ subtitle= "Xmas Season Pricing"
 
 
   [[rows.values]]
-    text = "Rs. 32540"
+    text = "Rs. 6571"
 
  
 
