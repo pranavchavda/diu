@@ -24,7 +24,7 @@ subtitle= "Call 9869779922 to book; Cheapest on Internet"
     header = "Royal Deluxe Twin Bed"
 
   [[rows.values]]
-    text = "Rs. 4000"
+    text = "Rs. 6195"
 
 
 [[rows]]
@@ -33,7 +33,7 @@ subtitle= "Call 9869779922 to book; Cheapest on Internet"
     header = "Royal Executive"
 
   [[rows.values]]
-    text = "Rs. 4500"
+    text = "Rs. 6725"
 
  
     
