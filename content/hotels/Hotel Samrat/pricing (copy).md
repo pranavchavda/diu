@@ -39,10 +39,10 @@ subtitle= "Cheapest on the Internet; call 9869779922 to book"
     header = "Delux Twin Bed"
 
   [[rows.values]]
-    text = "Rs. 2297"
+    text = "Rs. 4885"
 
   [[rows.values]]
-    text = "Rs. 2488"
+    text = "Rs. 6836"
 
 
     
