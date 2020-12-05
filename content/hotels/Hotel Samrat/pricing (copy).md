@@ -6,7 +6,7 @@ weight = 104
 background = "white"
 
 title = "Exclusive Xmas-NY Pricing"
-subtitle= "Cheapest on the Internet"
+subtitle= "Cheapest on the Internet; call 9869779922 to book"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
@@ -27,10 +27,10 @@ subtitle= "Cheapest on the Internet"
     header = "Luxury AC"
 
   [[rows.values]]
-    text = "Rs. 2297"
+    text = "Rs. 4885"
     
    [[rows.values]]
-    text = "Rs. 2488"  
+    text = "Rs. 6836"  
 
 
 [[rows]]
