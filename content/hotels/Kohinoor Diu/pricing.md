@@ -5,8 +5,8 @@ date = "2017-10-10"
 weight = 106
 background = "white"
 
-title = "Pricing"
-subtitle= "[Call us] today for the best price"
+title = "Regular Pricing"
+subtitle= "[Call us](tel:7016528702) Now for the best price"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
