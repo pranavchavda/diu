@@ -26,7 +26,7 @@ subtitle= "[Call us Now to book 7016528702](tel:7016528702)"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "₹ 1800"
+    text = "[call us](tel:7016528702)"
 
 
 
