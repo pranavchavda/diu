@@ -26,7 +26,7 @@ subtitle= "[Call us for today's best price](tel:7016825702)"
     header = "Standard Room"
 
   [[rows.values]]
-    text = "₹ 1800"
+    text = "[Call us](tel:7016528702)"
 
 
 
@@ -36,7 +36,7 @@ subtitle= "[Call us for today's best price](tel:7016825702)"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "₹ 2300"
+    text = "[Call us](7016528702"
 
  
     
