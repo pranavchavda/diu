@@ -5,7 +5,7 @@ date = "2017-10-10"
 weight = 104
 background = "white"
 
-title = "Pricing"
+title = "Pricing 4640 onwards"
 subtitle= "[Call us to get a deal](tel:7016825702)"
 #title_align = "left" # Default is center, can be left, right or center
 
