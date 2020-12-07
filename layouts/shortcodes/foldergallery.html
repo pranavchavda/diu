@@ -2,18 +2,20 @@
     div.gallery {
        display: flex;
        flex-wrap: wrap;
+       padding: 0 1px;
     }
           div.gallery a {
               flex-grow: 1;
-              object-fit: cover;
+              flex:15%;
               margin: 2px;
-              display: flex;
+              display: flex; 
           }
   
           div.gallery a img {            
-              height: 200px;
-              width:100%;
-              object-fit: cover;
+              height: auto;
+              width:auto;
+              max-width:300px;
+              object-fit: contain;
               flex-grow: 1;
           }
   
@@ -24,11 +26,11 @@
       <div class="gallery">
           {{ $base := .Get "src" }}
           {{ $thumb := $base }}
-      {{ $path := print "content/" .Page.Dir (.Get "src") }}
+      {{ $path := print "content/"  .Page.Dir (.Get "src") }}
   
       {{ range (readDir $path) }}
           {{- $thumbext := "-thumb" }}
-          {{- $isimg := lower .Name | findRE "\\.(gif|jpg|jpeg|tiff|png|bmp)" }}<!-- is the current file an image? -->
+          {{- $isimg := lower .Name | findRE "\\.(gif|jpg|jpeg|tiff|png|bmp|webp)" }}<!-- is the current file an image? -->
           {{- if and $isimg }}
           {{- $thumb := .Name  }}
               <a data-fancybox="gallery" href="{{ $base }}/{{ .Name }}">
