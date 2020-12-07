@@ -6,7 +6,7 @@ weight = 104
 background = "white"
 
 title = "Exclusive Xmas-NY Pricing"
-subtitle= "Cheapest on the Internet; call 9869779922 to book"
+subtitle= "[Cheapest on the Internet; call 9869779922 to book](tel:7016528702)"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
