@@ -22,8 +22,8 @@ color = "#f0f0f0"
 
 
 [[buttons]]
-  text = "Call 9869779922"
-  url = "tel:+91-9869779922"
+  text = "Call 7016528702"
+  url = "tel:+91-7016528702"
   color = "primary"
 
 +++
