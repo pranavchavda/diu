@@ -2,7 +2,7 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 105
+weight = 104
 background = "white"
 
 title = "Pricing"
