@@ -6,7 +6,7 @@ weight = 108
 background = "white"
 
 title = "Exclusive Xmas Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "Call 7016528702 to book at this price"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
