@@ -7,7 +7,7 @@ background = "light"
 align = "left"
 
 [asset]
-  image = "1.jpg"
+  image = "kostamar 12.jpg"
   align = "top"
 
  [[buttons]]
