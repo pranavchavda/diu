@@ -6,7 +6,7 @@ weight = 105
 background = "white"
 
 title = "Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "[Call us now](tel:7016528702)for steal-A-deal price"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
