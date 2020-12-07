@@ -6,7 +6,7 @@ weight = 106
 background = "white"
 
 title = "Pricing"
-subtitle= "Call us today for the best price"
+subtitle= "[Call us] today for the best price"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]

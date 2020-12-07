@@ -13,7 +13,7 @@ subtitle = "Call the Number Below to Book at the Best Possible Tarrif"
 color = "#f0f0f0"
 
 [header]
-  image = "kohinoor 4.jpg"
+  image = "Kohinoor 1.jpg"
   height = "100px"
 
 [[buttons]]
