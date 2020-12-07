@@ -11,7 +11,7 @@ subtitle= "[Call 7016528702](tel:7016528702) to book at this exclusive price"
 
 [header]
   [[header.values]]
-    text = "Category"
+    text = "Category."
 
 
 
