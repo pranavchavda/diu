@@ -36,7 +36,7 @@ subtitle= "[Call us to get a deal](tel:7016825702)"
     header = "Executive Room"
 
   [[rows.values]]
-    text = "[Call us](7016528702"
+    text = "[Call us](tel:7016528702)"
 
  
     
