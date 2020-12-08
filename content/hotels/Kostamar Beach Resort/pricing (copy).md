@@ -6,7 +6,7 @@ weight = 104
 background = "white"
 
 title = "Xmas Season Exclusive Pricing"
-subtitle= "[Call us](tel:7016528702)" to book at this exclusive pricing. Only few left
+subtitle= "[Call us](tel:7016528702) to book at this exclusive pricing. Only few left"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
