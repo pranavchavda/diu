@@ -5,7 +5,7 @@ date = "2017-10-10"
 weight = 105
 background = "white"
 
-title = "Pricing"
+title = "Regular Pricing"
 subtitle= "[Call us now](tel:7016528702)for steal-A-deal price"
 #title_align = "left" # Default is center, can be left, right or center
 
